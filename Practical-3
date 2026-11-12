@@ -1,4 +1,4 @@
-{
+%{
 /*Name: Sanvi Wadhankar PRN: 24070521191 */
 #include <stdio.h>
 int count = 0;
